@@ -1,0 +1,4 @@
+# Nenhuma instalação é necessária no Databricks.
+# Somente para execução fora do Databricks:
+pyspark==3.5.0
+delta-spark==3.2.0
